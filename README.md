@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# I make and do things, mostly oscilloscope music and passion projects.
+## I make and do things, mostly oscilloscope music and passion projects.
 
 <!--
 **DJLevel3/DJLevel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
